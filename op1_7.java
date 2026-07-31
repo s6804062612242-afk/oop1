@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class app1_7 {
+public class op1_7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         cal obj1 = new cal();
